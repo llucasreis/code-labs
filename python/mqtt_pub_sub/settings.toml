@@ -1,0 +1,3 @@
+host = "broker.emqx.io"
+port = 1883
+topic = "lucas/mqtt/test"
